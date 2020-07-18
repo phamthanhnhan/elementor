@@ -1,0 +1,9 @@
+{
+    "name": "elementor",
+    "description": "Elementor for Drupal",
+    "type": "library",
+    "require-dev": {},
+    "license": "GPL-3.0+",
+    "authors": [],
+    "require": {}
+}
